@@ -35,11 +35,12 @@ cse4001_sync.cpp - Driver (main)
 
 Makefile
 
-Output Screenshots
- ![image-20231101100027110](./problem1.png) 
-https://raw.githubusercontent.com/ralonsogarcia05/cse4001_sync/main/problem2.png
-https://raw.githubusercontent.com/ralonsogarcia05/cse4001_sync/main/problem3.png
-https://raw.githubusercontent.com/ralonsogarcia05/cse4001_sync/main/problem4.png
+## Output Screenshots
+
+![Problem 1 Output](https://raw.githubusercontent.com/ralonsoqarcia05/cse4001_sync/main/problem1.png)
+![Problem 2 Output](https://raw.githubusercontent.com/ralonsoqarcia05/cse4001_sync/main/problem2.png)
+![Problem 3 Output](https://raw.githubusercontent.com/ralonsoqarcia05/cse4001_sync/main/problem3.png)
+![Problem 4 Output](https://raw.githubusercontent.com/ralonsoqarcia05/cse4001_sync/main/problem4.png)
 
 Author
 Richard Alonso Garcia
