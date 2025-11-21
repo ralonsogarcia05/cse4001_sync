@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CSE4001 Synchronization Assignment
 
 This project contains implementations of four classic synchronization problems using POSIX threads and semaphores.
@@ -47,3 +48,6 @@ Makefile
 Author
 
 Richard Alonso Garcia
+=======
+# cse4001_sync
+>>>>>>> 44d5e2caf56096a637f6d17cc053ae7259676893
