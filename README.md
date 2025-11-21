@@ -42,5 +42,7 @@ Makefile
 ![Problem 3 Output](https://raw.githubusercontent.com/ralonsogarcia05/cse4001_sync/main/problem3.png)
 ![Problem 4 Output](https://raw.githubusercontent.com/ralonsogarcia05/cse4001_sync/main/problem4.png)
 
+if the screenshots do not display, they are attached in the repo files.
+
 Author
 Richard Alonso Garcia
