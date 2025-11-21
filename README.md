@@ -51,8 +51,8 @@ Richard Alonso Garcia
 =======
 # cse4001_sync
 outputs: 
-![Screenshot 1](problem 1.png)
-![Screenshot 2](problem 2.png)
-![Screenshot 3](problem 3.png)
-![Screenshot 4](problem 4.png)
+![Screenshot 1](problem1.png)
+![Screenshot 2](problem2.png)
+![Screenshot 3](problem3.png)
+![Screenshot 4](problem4.png)
 
