@@ -51,8 +51,9 @@ Richard Alonso Garcia
 =======
 # cse4001_sync
 outputs: 
-![Screenshot 1](https://github.com/ralonsogarcia05/cse4001_sync/blob/main/problem1.png?raw=true)
-![Screenshot 2](https://github.com/ralonsogarcia05/cse4001_sync/blob/main/problem2.png?raw=true)
-![Screenshot 3](https://github.com/ralonsogarcia05/cse4001_sync/blob/main/problem3.png?raw=true)
-![Screenshot 4](https://github.com/ralonsogarcia05/cse4001_sync/blob/main/problem4.png?raw=true)
+![Screenshot 1](https://github.com/ralonsogarcia05/cse4001_sync/raw/main/problem1.png)
+![Screenshot 2](https://github.com/ralonsogarcia05/cse4001_sync/raw/main/problem2.png)
+![Screenshot 3](https://github.com/ralonsogarcia05/cse4001_sync/raw/main/problem3.png)
+![Screenshot 4](https://github.com/ralonsogarcia05/cse4001_sync/raw/main/problem4.png)
+
 
