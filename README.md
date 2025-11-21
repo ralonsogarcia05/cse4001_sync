@@ -36,7 +36,7 @@ cse4001_sync.cpp - Driver (main)
 Makefile
 
 Output Screenshots
-https://raw.githubusercontent.com/ralonsogarcia05/cse4001_sync/main/problem1.png
+ ![image-20231101100027110](./problem1.png) 
 https://raw.githubusercontent.com/ralonsogarcia05/cse4001_sync/main/problem2.png
 https://raw.githubusercontent.com/ralonsogarcia05/cse4001_sync/main/problem3.png
 https://raw.githubusercontent.com/ralonsogarcia05/cse4001_sync/main/problem4.png
