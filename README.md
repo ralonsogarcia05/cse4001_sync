@@ -38,9 +38,9 @@ Makefile
 ## Output Screenshots
 
 ![Problem 1 Output](https://raw.githubusercontent.com/ralonsogarcia05/cse4001_sync/main/problem1.png)
-![Problem 2 Output](./problem2.png)
-![Problem 3 Output](./problem3.png)
-![Problem 4 Output](./problem4.png)
+![Problem 2 Output](https://raw.githubusercontent.com/ralonsogarcia05/cse4001_sync/main/problem2.png)
+![Problem 3 Output](https://raw.githubusercontent.com/ralonsogarcia05/cse4001_sync/main/problem3.png)
+![Problem 4 Output](https://raw.githubusercontent.com/ralonsogarcia05/cse4001_sync/main/problem4.png)
 
 Author
 Richard Alonso Garcia
