@@ -1,30 +1,25 @@
 # cse4001_sync
 
 ## Build Instructions
+
+```bash
 make clean
 make
+This generates the executable: ./cse4001_sync
 
-text
-
-This generates the executable: `./cse4001_sync`
-
-## Run Each Problem
-
+Run Each Problem
 Run the program with one argument (1-4) to execute a specific problem:
 
-**Problem 1 - No-Starve Readers-Writers**
-```bash
+Problem 1 - No-Starve Readers-Writers
+bash
 ./cse4001_sync 1
 Problem 2 - Writer-Priority Readers-Writers
-
 bash
 ./cse4001_sync 2
 Problem 3 - Dining Philosophers (Naive - Can Deadlock)
-
 bash
 ./cse4001_sync 3
 Problem 4 - Dining Philosophers (Walter - Deadlock-Free)
-
 bash
 ./cse4001_sync 4
 Files
