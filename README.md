@@ -50,4 +50,9 @@ Author
 Richard Alonso Garcia
 =======
 # cse4001_sync
->>>>>>> 44d5e2caf56096a637f6d17cc053ae7259676893
+outputs: 
+![Screenshot 1](problem 1.png)
+![Screenshot 2](problem 2.png)
+![Screenshot 3](problem 3.png)
+![Screenshot 4](problem 4.png)
+
